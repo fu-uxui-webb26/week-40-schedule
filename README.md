@@ -11,8 +11,12 @@ Samtidigt startar den individuella examinationen där ni får använda AI som st
 
 ## Mål för veckan:
 
-1. 
-
+1. Förstå syftet med ett CMS och vanliga användningsområden.
+2. Navigera och skapa innehåll i WordPress.
+3. Förstå skillnaden mellan design och implementation.
+4. Identifiera begränsningar och möjligheter i ett CMS.
+5. Anpassa en design efter tekniska förutsättningar.
+6. Påbörja implementation av en Figma-design i WordPress.
 
 ## Resurser
 
